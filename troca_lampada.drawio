@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T14:27:35.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="39JResqL95kjxpSQ1iFW" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T14:35:48.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="mEu9d5P7y4MwCnBs12Zp" version="21.1.8" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -176,6 +176,66 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-1" target="K2IalS8Xcg6WVnxGB8Fp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-2" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="620" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-4" target="K2IalS8Xcg6WVnxGB8Fp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-4" value="Pegar a lampada nova" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="110" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-6" target="K2IalS8Xcg6WVnxGB8Fp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-6" target="K2IalS8Xcg6WVnxGB8Fp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-6" value="Se a lampada queimada estiver no bulbo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-7" target="K2IalS8Xcg6WVnxGB8Fp-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-7" value="Retirar a lampada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-11" value="Verdadeiro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="208" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-13" value="Falso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-14" target="K2IalS8Xcg6WVnxGB8Fp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.62;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K2IalS8Xcg6WVnxGB8Fp-21" target="K2IalS8Xcg6WVnxGB8Fp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="570" />
+              <mxPoint x="350" y="570" />
+              <mxPoint x="350" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2IalS8Xcg6WVnxGB8Fp-21" value="Colocar a lampada nova no bulbo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="270" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
