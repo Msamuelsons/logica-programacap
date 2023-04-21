@@ -12,3 +12,4 @@
 > Tendo características (propriedades) e funcionalidades prórpias (métodos);
 > O carro pode ter 4 ou 2 portas(prorpiedade);
 > Podemos acelerar ou frear com o carro (métodos)
+
