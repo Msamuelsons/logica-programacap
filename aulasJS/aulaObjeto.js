@@ -46,3 +46,10 @@ let escritor = {
 
 console.log(escritor.nome)
 console.log(escritor['possui obras'])
+
+let cavalo = {
+    patas: 4,
+    estaDomesticado: true
+}
+
+console.log(cavalo)
