@@ -13,3 +13,7 @@
 > O carro pode ter 4 ou 2 portas(prorpiedade);
 > Podemos acelerar ou frear com o carro (métodos)
 
+# O que é um Objeto
+<p> Um tipo de dado que possui duas características.</p>
+1. <i> Propriedades</i>: Características do objeto <br>
+2. <i> Métodos</i>: Ação do objeto
