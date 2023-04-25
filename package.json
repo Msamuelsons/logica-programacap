@@ -1,0 +1,12 @@
+{
+  "name": "logica-programacap",
+  "version": "1.0.0",
+  "description": "Aqui fica exercícios e exemplos de atividades de lógica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
